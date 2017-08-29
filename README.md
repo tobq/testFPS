@@ -1,5 +1,5 @@
 # testFPS
-This is robust method, using the requestAnimationFrame method
+A robust method for testing FPS in browser, using the requestAnimationFrame method
 
     calcFPS();
     
